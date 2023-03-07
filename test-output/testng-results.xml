@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-07T08:27:05 IST" name="Suite" finished-at="2023-03-07T08:27:36 IST" duration-ms="30341">
+  <suite started-at="2023-03-07T20:26:57 IST" name="Suite" finished-at="2023-03-07T20:27:27 IST" duration-ms="29593">
     <groups>
     </groups>
-    <test started-at="2023-03-07T08:27:05 IST" name="Test" finished-at="2023-03-07T08:27:36 IST" duration-ms="30341">
+    <test started-at="2023-03-07T20:26:57 IST" name="Test" finished-at="2023-03-07T20:27:27 IST" duration-ms="29593">
       <class name="testcases.Logintest">
-        <test-method is-config="true" signature="setupbrowser()[pri:0, instance:testcases.Logintest@1b75c2e3]" started-at="2023-03-07T08:27:10 IST" name="setupbrowser" finished-at="2023-03-07T08:27:23 IST" duration-ms="13248" status="PASS">
+        <test-method is-config="true" signature="setupbrowser()[pri:0, instance:testcases.Logintest@1b75c2e3]" started-at="2023-03-07T20:27:01 IST" name="setupbrowser" finished-at="2023-03-07T20:27:13 IST" duration-ms="12253" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupbrowser -->
-        <test-method signature="logintoapplication(java.lang.String,java.lang.String)[pri:0, instance:testcases.Logintest@1b75c2e3]" started-at="2023-03-07T08:27:23 IST" name="logintoapplication" data-provider="Logindetails" finished-at="2023-03-07T08:27:33 IST" duration-ms="10495" status="PASS">
+        <test-method signature="logintoapplication(java.lang.String,java.lang.String)[pri:0, instance:testcases.Logintest@1b75c2e3]" started-at="2023-03-07T20:27:13 IST" name="logintoapplication" data-provider="Logindetails" finished-at="2023-03-07T20:27:24 IST" duration-ms="10854" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logintoapplication -->
-        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.Logintest@1b75c2e3]" started-at="2023-03-07T08:27:34 IST" name="closebrowser" finished-at="2023-03-07T08:27:36 IST" duration-ms="1939" status="PASS">
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.Logintest@1b75c2e3]" started-at="2023-03-07T20:27:25 IST" name="closebrowser" finished-at="2023-03-07T20:27:27 IST" duration-ms="1957" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrowser -->
